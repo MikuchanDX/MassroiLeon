@@ -15,19 +15,14 @@
  */
 
 html, body {
-  margin: 360px auto;
-      max-width: 1000px;
-      line-height: 1.6;
-      font-size: 18px;
-      color: rgb(225, 0, 25);
-      padding: 0 5px;
+  margin: auto;
       background:url(evo.png) no-repeat 100%;
       background-size: 100%;
       opacity: 0.83;
       background-repeat: no-repeat;
       background-attachment: fixed;
       background-size: cover; 
-      font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+      font-family: sans-serif;
 }
 .mdl-demo .mdl-layout__header-row {
   padding-left: 40px;
